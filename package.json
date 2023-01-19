@@ -1,5 +1,5 @@
 {
-  "name": "graphql-upload-common-js",
+  "name": "graphql-upload-commonjs",
   "version": "16.0.2",
   "description": "Middleware and an Upload scalar to add support for GraphQL multipart requests (file uploads via queries and mutations) to various Node.js GraphQL servers. With CommonJS support",
   "license": "MIT",
