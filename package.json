@@ -90,7 +90,6 @@
     "prettier": "prettier -c .",
     "types": "tsc -p jsconfig.json",
     "tests": "coverage-node --unhandled-rejections=throw test.mjs",
-    "test": "npm run eslint && npm run prettier && npm run types && npm run tests",
-    "prepublishOnly": "npm test"
+    "test": "npm run eslint && npm run prettier && npm run types && npm run tests"
   }
 }
